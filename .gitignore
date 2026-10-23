@@ -1,0 +1,10 @@
+data/
+.venv/
+oof_*.csv
+__pycache__/
+oof_*.npy
+data/external/
+oof_mv_*.csv
+pool_source_check.csv
+logs/
+.claude/
